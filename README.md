@@ -2,7 +2,7 @@
 
 Contact me to get the Pro Version :
 
-# https://t.me/amphebian07 
+# https://t.me/tangopython
  
 # Script to export members Telegram Groups and Channels to a CSV file and to add members to Telegram Groups or Channels.
 
