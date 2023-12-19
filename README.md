@@ -20,37 +20,28 @@ pip3 install telethon
                                              STEP BY MASTER TG
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
+# COMMAND RUN
+```sh
+To setup configration file ( API ID, API HASH )
+To Genrate User Data
+members.csv is default if you changed name use it 
+Send DM To Scrpped data
+Add users to your group
+Update Tool ```
+
 # PROCEDURE:-
 
 Install requierments
-
-$ python3 setup.py -i
-
-To setup configration file ( API ID, API HASH )
-
-$ python3 setup.py -c
-
-$ python3 smsbot.py members.csv
-
-To Genrate User Data
-
-$ python3 scraper.py
-
-( members.csv is default if you changed name use it )
-
-Send DM To Scrpped data
-
-$ python3 smsbot.py members.csv
-
-Add users to your group
-
-$ python3 groupadd.py members.csv
-
-Update Tool
-
-$ python3 setup.py -u
-
+```python
+  python3 setup.py -i
+  python3 setup.py -c
+  python3 smsbot.py members.csv
+  python3 scraper.py
+  python3 smsbot.py members.csv
+  python3 groupadd.py members.csv
+  python3 setup.py -u
+```
 
 <h3 align="center">Visitors Counts👀</h3>
 <a href="https://github.com/mastertgtool/ADD-MEMBER-.git"><img alt="Cute Count" 
-src="https://count.getloli.com/get/@Telegram-free-adding-script?theme=rule34" /></a>
+src="https://count.getloli.com/get/@mastertgtool/ADD-MEMBER-.git?theme=rule34" /></a>
