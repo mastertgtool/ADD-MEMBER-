@@ -28,11 +28,12 @@ members.csv is default if you changed name use it
 Send DM To Scrpped data
 Add users to your group
 Update Tool ```
-
+```
 # PROCEDURE:-
 
 Install requierments
 ```python
+
   python3 setup.py -i
   python3 setup.py -c
   python3 smsbot.py members.csv
