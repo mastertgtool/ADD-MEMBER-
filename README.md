@@ -52,5 +52,5 @@ $ python3 setup.py -u
 
 
 <h3 align="center">Visitors Counts👀</h3>
-<a href="https://github.com/Amphebian07/Telegram-free-adding-script"><img alt="Cute Count" 
+<a href="https://github.com/mastertgtool/ADD-MEMBER-.git"><img alt="Cute Count" 
 src="https://count.getloli.com/get/@Telegram-free-adding-script?theme=rule34" /></a>
